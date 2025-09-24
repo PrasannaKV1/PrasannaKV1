@@ -25,15 +25,15 @@
 ---
 
 ## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasannaKV1&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasannaKV1&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📂 Featured Projects  
-🔹 [Automation Framework with Selenium & TestNG](https://github.com/yourusername/selenium-framework)  
-🔹 [Playwright End-to-End Testing](https://github.com/yourusername/playwright-tests)  
-🔹 [API Testing with Rest Assured](https://github.com/yourusername/api-testing)  
+🔹 [Automation Framework with Selenium & TestNG](https://github.com/PrasannaKV1/selenium-framework)  
+🔹 [Playwright End-to-End Testing](https://github.com/PrasannaKV1/playwright-tests)  
+🔹 [API Testing with Rest Assured](https://github.com/PrasannaKV1/api-testing)  
 
 ---
 
