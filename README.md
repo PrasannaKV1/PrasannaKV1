@@ -38,8 +38,8 @@
 ---
 
 ## 📬 Connect With Me  
-💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
-📧 your.email@example.com  
+💼 www.linkedin.com/in/prasanna-k-v-1aa658211
+📧 prasannakv936@gmail.com
 🌐 [Portfolio](https://yourportfolio.com)  
 
 ---
