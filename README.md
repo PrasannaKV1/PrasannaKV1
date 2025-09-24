@@ -1,27 +1,47 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-<br><br>
-<samp>
-I'm Bipin. A Web Developer from Bangalore, India. 
-<br><br>Contact me on <a href="mailto:bipingowda7@gmail.com">Send an Email</a>
-<br><a href="https://developerbipin.netlify.app/">My portfolio</a>
-</samp>
-</p>
- 
-- 🔭 I’m currently working on JavaScript and ReactJS mostly.
-- 🌱 I’m currently learning Node JS.
-- 🤔 I’m looking for help with NodeJS.
-- 💬 Ask me about anything related to technology, books, latest web series and offbeat film choices.
-- 📫 How to reach me: Read above :P
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Sometimes I think out loud and type straight to someone and they always think I'm drunk (I don't drink, LOL!). :D
- 
-<p align="center"> 
-  Visitor count<br>
-<img src="https://profile-counter.glitch.me/bipin007/count.svg" />
-</p>
-<p align="center">
-<b>Thanks For Visiting ❤️</b>
-</p>
+# 🌟 Prasanna | Quality Assurance Engineer  
+
+🔍 Passionate QA Engineer | 🧪 Test Automation | 💡 Continuous Improvement  
+
+---
+
+## 👋 About Me  
+- 🎯 Skilled in **Manual & Automation Testing**  
+- 🛠️ Hands-on with **Selenium, Playwright, Cypress, Postman, JMeter**  
+- 📊 Experience with **TestNG, JUnit, PyTest, Mocha** frameworks  
+- 🧩 Strong in **SDLC, STLC, Agile & Scrum practices**  
+- ☁️ Exposure to **CI/CD (Jenkins, GitHub Actions, GitLab CI)**  
+- 🐞 Love breaking things before customers do 😅  
+
+---
+
+## 🚀 Tech Stack  
+**Automation Tools:** Selenium | Playwright | Cypress  
+**API Testing:** Postman | Rest Assured  
+**Performance Testing:** JMeter | k6  
+**CI/CD:** Jenkins | GitHub Actions | Docker  
+**Languages:** Java | JavaScript | Python  
+**Test Management:** Jira | TestRail | Zephyr  
+
+---
+
+## 📈 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+
+---
+
+## 📂 Featured Projects  
+🔹 [Automation Framework with Selenium & TestNG](https://github.com/yourusername/selenium-framework)  
+🔹 [Playwright End-to-End Testing](https://github.com/yourusername/playwright-tests)  
+🔹 [API Testing with Rest Assured](https://github.com/yourusername/api-testing)  
+
+---
+
+## 📬 Connect With Me  
+💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
+📧 your.email@example.com  
+🌐 [Portfolio](https://yourportfolio.com)  
+
+---
+
+✨ *"Testing is not about finding bugs, it’s about delivering confidence."*  
