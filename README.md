@@ -1,4 +1,4 @@
-# 🌟 Prasanna | Quality Assurance Engineer  
+# 🌟 Prasanna K V | Quality Assurance Engineer  
 
 🔍 Passionate QA Engineer | 🧪 Test Automation | 💡 Continuous Improvement  
 
