@@ -7,7 +7,7 @@
 ## 👋 About Me  
 - 🎯 Skilled in **Manual & Automation Testing**  
 - 🛠️ Hands-on with **Selenium, Playwright, Cypress, Postman, JMeter**  
-- 📊 Experience with **TestNG, JUnit, PyTest, Mocha** frameworks  
+- 📊 Experience with **TestNG, JUnit, Mocha** frameworks  
 - 🧩 Strong in **SDLC, STLC, Agile & Scrum practices**  
 - ☁️ Exposure to **CI/CD (Jenkins, GitHub Actions, GitLab CI)**  
 - 🐞 Love breaking things before customers do 😅  
